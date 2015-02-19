@@ -1,0 +1,10 @@
+{ "name" : "pongocalypse", 
+"version" : "0.0.1",
+"repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/DaneTheory/pongocalypse.git"
+  },
+"dependencies" : 
+  { "socket.io" : "0.9.6", 
+    "node-static" : "0.7.6" } 
+}
